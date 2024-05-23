@@ -2,3 +2,7 @@
 function Login(username){
     console.Log(username);
 }
+
+function Logout(){
+    console.Log('logout');
+}
