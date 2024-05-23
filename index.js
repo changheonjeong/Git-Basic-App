@@ -1,0 +1,1 @@
+//index.html을 위한 js file
